@@ -1,0 +1,61 @@
+﻿Variable,Type,Description,Source
+bedrooms,House,Number of bedrooms,Mecklenburg County Assessor
+full_baths,House,Number of full bathrooms,Mecklenburg County Assessor
+half_baths,House,Number of half bathrooms,Mecklenburg County Assessor
+fireplaces,House,Number of fireplaces,Mecklenburg County Assessor
+finished_area,House,Square footage of finished area,Mecklenburg County Assessor
+total_sqft,House,Total square footage,Mecklenburg County Assessor
+year_built,House,Year of original home construction,Mecklenburg County Assessor
+built_use_style,House,"Building Type, e.g. Condominium or Townhouse",Mecklenburg County Assessor
+grade,House,Quality of construction materials and craftsmanship,Mecklenburg County Assessor
+story,House,Number of stories ,Mecklenburg County Assessor
+heat,House,"Heat source, e.g. Forced Air or Heat Pump",Mecklenburg County Assessor
+fuel,House,"Fuel source, e.g. Gas or Electric",Mecklenburg County Assessor
+foundation,House,"Type of foundation, e.g. Slab or Crawl Space",Mecklenburg County Assessor
+external_wall,House,"External wall material, e.g. Brick or Vinyl",Mecklenburg County Assessor
+population_density,Neighborhood,Total population estimate divided by land area,"2020: U.S. Census Bureau 2020 Census , 2013-2018: Mecklenburg County Tax Parcels (housing units); U.S. Census Bureau 2010 Census (average household size and group quarters); U.S. Postal Service (Vacancy Rate); area colleges and universities; , 2010: U.S. Census Bureau 2010 Census, U.S. Census Bureau TIGER (Area), via Mecklenburg QOL Explorer"
+proficiency_elementary_school,Neighborhood,Percentage of students in grades 3-5 proficient on End of Grade testing,"Charlotte-Mecklenburg Schools, via Mecklenburg QOL Explorer"
+proficiency_middle_school,Neighborhood,Percentage of students in grades 6-8 proficient inEnd of Grade testing,"Charlotte-Mecklenburg Schools, via Mecklenburg QOL Explorer"
+student_absenteeism,Neighborhood,Percentage of students absent 10% or more of school days,"Charlotte-Mecklenburg Schools, via Mecklenburg QOL Explorer"
+neighborhood_school_attendance,Neighborhood,Percent of students attending their assigned school,"Charlotte-Mecklenburg Schools, via Mecklenburg QOL Explorer"
+fire_call_rate,Neighborhood,"Fire calls for service per 1,000 residents","Charlotte Fire Department, Medic911 ;  Population,  via Mecklenburg QOL Explorer"
+311_request_rate,Neighborhood,Number of 311 calls per 100 people,"Charlotte-Mecklenburg 311, July 1 (Previous Year)- June 30, (Year); Population Estimate, via Mecklenburg QOL Explorer"
+grocery_proximity,Neighborhood,Percentage of housing units within ½-mile of a chain grocery store,"Chain grocery store addresses; Mecklenburg County Tax Parcels, "
+early_care_proximity,Neighborhood,Percent of housing units with 1/2 mile of a licensed early care and education program,"Child Care Resources, Inc., June (Year); Mecklenburg County Tax Parcels, via Mecklenburg QOL Explorer"
+low_cost_healthcare_proximity,Neighborhood,Number of housing units within ½-mile of a Medicaid provider or free clinic,"Mecklenburg County Department of Social Services, Community Care of North Carolina, Mecklenburg County Tax Parcels, via Mecklenburg QOL Explorer"
+fincancial_services_proximity,Neighborhood,Number of housing units within ½-mile of a bank or credit union,"FDIC and National Credit Union Association, 2020; Mecklenburg County Tax Parcels 2020, via Mecklenburg QOL Explorer"
+park_proximity,Neighborhood,Percentage of housing units within ½-mile of a park or other public recreation facility,"Mecklenburg County, Cornelius, Davidson, Huntersville, Mint Hill, Matthews and Pineville Parks and Recreaction Departments, 2020; Mecklenburg County Tax Parcels, via Mecklenburg QOL Explorer"
+pharmacy_proximity,Neighborhood,Percentage of housing units within 1/2-mile of a pharmacy,"NC Board of Pharmacy; Mecklenburg County Tax Parcels, via Mecklenburg QOL Explorer"
+school_age_proximity,Neighborhood,Percent of housing units with 1/2 mile of a licensed school-age program,"Child Care Resources, Inc., June (Year); Mecklenburg County Tax Parcels, via Mecklenburg QOL Explorer"
+transit_proximity,Neighborhood,Percentage of housing units within ½-mile of a transit stop,"Charlotte Area Transit System; Mecklenburg County Tax Parcels, via Mecklenburg QOL Explorer"
+library_card_prevalence,Neighborhood,Percentage of population with an active library card,"Charlotte-Mecklenburg Public Library, June (previous year)- June (year); Population Estimate, via Mecklenburg QOL Explorer"
+voter_participation,Neighborhood,Percentage of registered voters that voted in the general election,"Mecklenburg County Board of Elections, via Mecklenburg QOL Explorer"
+board_committee_participation,Neighborhood,"Residents serving on municipal boards and commitees per 1,000 people","City of Charlotte; Town of Cornelius; Population Estimate, via Mecklenburg QOL Explorer"
+job_density,Neighborhood,Jobs per acre,"U.S. Census Bureau Longitudinal Employer-Household Dynamics, via Mecklenburg QOL Explorer"
+public_health_insurance,Neighborhood,Percentage of residents with public health insurance,"Mecklenburg County Department of Social Services, September (Year); Population Estimate, (Year), via Mecklenburg QOL Explorer"
+public_nutrition_assistance,Neighborhood,Percentage of residents receiving public nutrition assistance,"Mecklenburg County Department of Social Services, September  (year), Population (year), via Mecklenburg QOL Explorer"
+subsidized_housing,Neighborhood,Percent of housing units twith development-based rental assistance,"Charlotte Housing Authority; Charlotte-Mecklenburg Housing Partnership; City of Charlotte Neighborhood & Business Services; National Housing Preservation Database; North Carolina Housing Finance Agency; U.S. Department of Housing and Urban Development Multifamily Properties Database; Mecklenburg County Tax Parcels , via Mecklenburg QOL Explorer"
+property_crime_rate,Neighborhood,"Property offenses per 1,000 residents","Charlotte-Mecklenburg, Cornelius, Huntersville, and Mint Hill Police Departments; Population Estimate, via Mecklenburg QOL Explorer"
+violent_crime_rate,Neighborhood,"Violent offenses per 1,000 residents","Charlotte-Mecklenburg, Cornelius, Huntersville, Matthews and Mint Hill Police Departments; Population Estimate, via Mecklenburg QOL Explorer"
+age_of_death,Neighborhood,Average age of death,"Mecklenburg County Health Department, via Mecklenburg QOL Explorer"
+births_to_adolescents,Neighborhood,Percentage of births to females under 19,"Mecklenburg County Health Department, via Mecklenburg QOL Explorer"
+low_birthweight,Neighborhood,Percentage of births where birth weight was less than 5lb 8oz,"Mecklenburg County Health Department, via Mecklenburg QOL Explorer"
+prenatal_care,Neighborhood,Percentage of births where mother received adequate pre-natal care,"Mecklenburg County Health Department, via Mecklenburg QOL Explorer"
+commercial_construction,Neighborhood,Permitted Commercial building units per 100 acres,"Mecklenburg County Code Enforcement, July 1 (previous year) -June, 30 (year), via Mecklenburg QOL Explorer"
+foreclosures,Neighborhood,Percentage of housing units foreclosed upon,"Mecklenburg County Register of Deeds, July 1, (previous year)-June 30, (year), via Mecklenburg QOL Explorer"
+new_residential,Neighborhood,"Number of residential units permitted for new construction, per 100 acres","Mecklenburg County Land Use and Environmental Services Agency, July 1, (previous year)-June 30, (year), via Mecklenburg QOL Explorer"
+rental_houses,Neighborhood,Percentage of detached single-family housing units that are rented,"Mecklenburg County Tax Parcels, via Mecklenburg QOL Explorer"
+housing_age,Neighborhood,Average age of single-family housing units (Years),"Mecklenburg County Tax Parcels, via Mecklenburg QOL Explorer"
+housing_density,Neighborhood,Housing units per acre,"Mecklenburg County Tax Parcels, via Mecklenburg QOL Explorer"
+housing_size,Neighborhood,Average heated area of single family housing units (Square feet),"Mecklenburg County Tax Parcels, via Mecklenburg QOL Explorer"
+vacant_land,Neighborhood,Percentage of land area that is vacant,"Charlotte Mecklenburg Planning Department, via Mecklenburg QOL Explorer"
+tree_canopy,Neighborhood,Percentage of land area covered by tree canopy,"University of Vermont; Mecklenburg County Land Use & Environmental Services Agency, 2012, via Mecklenburg QOL Explorer"
+residential_demolitions,Neighborhood,Residential units permitted for demolition per 100 single-family units,"Mecklenburg County Land Use and Environmental Services Agency, July 1, (previous year)-June 30, (year), via Mecklenburg QOL Explorer"
+single_family_housing,Neighborhood,Percentage of housing units that are single-family,"Mecklenburg County Tax Parcels, via Mecklenburg QOL Explorer"
+residential_renovation,Neighborhood,Residential units permitted for renovation per 100 acres,"Mecklenburg County Land Use and Environmental Services Agency, July 1, (previous year)-June 30, (year), via Mecklenburg QOL Explorer"
+residential_tree_canopy,Neighborhood,Percentage of residential land covered by tree canopy,"University of Vermont; Mecklenburg County Land Use & Environmental Services Agency, 2012, via Mecklenburg QOL Explorer"
+bicycle_friendliness,Neighborhood,Index measuring the transportation network's ability to comfortably support cycling,"Charlotte Department of Transportation, Town of Cornelius, Davidson, Huntersville, Matthews, and Mint Hill, via Mecklenburg QOL Explorer"
+asian_population,Neighborhood,Percentage of population that is Asian,"U.S. Census Bureau 2020 Census , 2010 Census, 2000 Census, via Mecklenburg QOL Explorer"
+white_population,Neighborhood,Percentage of population that is White or Caucasian,"U.S. Census Bureau 2020 Census , 2010 Census, 2000 Census, via Mecklenburg QOL Explorer"
+hispanic_latino_population,Neighborhood,Percentage of population that is Hispanic/Latino,"U.S. Census Bureau 2020 Census , 2010 Census, 2000 Census, via Mecklenburg QOL Explorer"
+black_population,Neighborhood,Percentage of population that is Black or African American,"U.S. Census Bureau 2020 Census , 2010 Census, 2000 Census, via Mecklenburg QOL Explorer"
